@@ -72,6 +72,10 @@ lib/
 
 This app uses the [DummyJSON](https://dummyjson.com/) API for product data.
 
+## App Demo Video and Photos
+
+https://drive.google.com/drive/folders/1FV8VWReoQMmgo552EEvOJBVyB2ujBM0v
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
